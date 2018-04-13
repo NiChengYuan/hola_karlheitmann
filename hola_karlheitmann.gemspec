@@ -1,4 +1,4 @@
-Ge::Specification.new do |s|
+Gem::Specification.new do |s|
   s.name       = 'hola_karlheitmann'
   s.version    = '0.0.0'
   s.date       = '2018-04-13'
